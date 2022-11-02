@@ -1,4 +1,4 @@
-**Einfaches Berichtsheft zum schnellen notieren der Tätigkeiten**
+**Einfaches Berichtsheft zum schnellen Notieren der Tätigkeiten**
 
 
 
@@ -8,4 +8,4 @@ Solltet ihr Änderungsideen haben schlagt sie gerne vor. Ich lerne gerade erst P
 ## Letzte Version 2022-11-02 21:45
 
 > „Der beste Weg, um herauszufinden, was wir wirklich brauchen, ist, das
-> loszuwerden, was wir nicht brauchen.“ (Marie Kondō)
+> loszuwerden, was wir nicht brauchen.“ (Marie Kondo)
